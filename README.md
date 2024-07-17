@@ -29,21 +29,21 @@
 - Utilized SAS Miner and Advanced Excel to analyze over 50,000 rows of data on heart disease indicators, enhancing data-driven insights.
 - Identified key predictors of heart attacks, supporting medical research and preventive healthcare strategies, and achieving a 20% increase in prediction accuracy.
 
-![Image 1](Images/Heart Disease.webp)
+![Image 1](Images/HeartDisease.png)
 
 ### HR Analytics and Visualization with Power BI
 
 - Executed a comprehensive HR Analytics project using Power BI and Power Query to visualize and analyze over 10,000 employee records, delivering detailed insights.
 - Delivered actionable insights that improved workforce management and strategic HR decision-making, leading to a 15% increase in employee retention.
 
-![Image 2](Images/HR Analytics.webp)
+![Image 2](Images/HRAnalytics.png)
 
 ### Customer Retention Modeling
 
 - Led a retention modeling project based on a Harvard University case study, utilizing SAS Enterprise to analyze over 50,000 customer records.
 - Achieved 95% accuracy in forecasting customer retention rates, informing targeted engagement strategies and increasing retention by 20%.
 
-![Image 3](Images/CRM.webp)
+![Image 3](Images/CRM.png)
 
 ## Achievement
 - Guest Speaker: 
