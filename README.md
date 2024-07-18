@@ -7,7 +7,7 @@
 
 ## Education							       		
 - **M.S. in Business Analytics** | Suffolk University (_May 2024_) 			        		
-- **B.Com** | Jesus and Mary College, Delhi University (_July 2021_)
+- **B.Com** |  Jesus and Mary College, Delhi University (_July 2021_)
 
 ## Work Experience
 **Teaching Assistant | Suffolk University (_Sept 2023 - May 2024_)**
