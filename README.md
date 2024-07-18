@@ -45,5 +45,6 @@
 
 ![Image 3](Images/CRM.png)
 
-## Achievement
-- Guest Speaker: 
+## Talks & Lectures
+- **Guest Lecture**: Selected as a distinguished scholar student to deliver a guest lecture for the upcoming Master of Science in Business Analytics (MSBA) cohort at Suffolk University, showcasing expertise in business analytics and industry insights, (_Spring 2024_)
+- **Teaching Assissance Lecture**: A brief Introduction to Data analysis using R to over 100 students, (_Spring 2024_)
